@@ -1,0 +1,16 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "CLI app for buying items on Amazon like application",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "jquery": "^3.2.1",
+    "mysql": "^2.15.0"
+  }
+}
